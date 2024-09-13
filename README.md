@@ -46,7 +46,7 @@ Pickle: For saving and loading the trained model.
 
 # Model	Accuracy	
 Logistic Reg.	 0.973684   
-SVM	0.956140   0.971429  
+SVM	0.956140    
 Random Forest	0.964912   
 KNN	0.947368  
 Naive Bayes	0.964912   
